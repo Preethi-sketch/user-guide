@@ -10,3 +10,4 @@ Change 'change' to 'commit'.
 Change abc to cde. Add wje to hag
 
 Add point no: 5 to the document.
+Add point no: 6 also to the document.
