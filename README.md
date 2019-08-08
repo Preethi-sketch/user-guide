@@ -8,3 +8,5 @@ Change 'favourite' to 'favorite'. Change 'colour' to 'color'.
 Change 'change' to 'commit'.
 
 Change abc to cde. Add wje to hag
+
+Add point no: 5 to the document.
